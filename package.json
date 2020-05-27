@@ -16,6 +16,7 @@
   "dependencies": {
     "thepiratebay": "1.4.7",
     "torrentapi-wrapper2": "0.0.3",
-    "xtorrent": "1.0.0"
+    "xtorrent": "1.0.0",
+    "omgtorrent": "Persei08/omgtorrent"
   }
 }
